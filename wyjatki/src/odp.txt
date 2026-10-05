@@ -1,0 +1,5 @@
+Hello World!!!
+Kopia dane.txt!!!
+124
+76
+420
