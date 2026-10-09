@@ -1,0 +1,8 @@
+Anna;78
+Bartek;42
+Celina;91
+Damian;67
+Ela;50
+Filip;36
+Gabriela;84
+Hubert;59

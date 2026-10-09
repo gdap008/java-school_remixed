@@ -1,1 +1,4 @@
 Zadanie 1
+Największa liczba w pliku liczby.txt to: 42
+Suma liczb parzystych to: 118
+W pliku jest 3 liczb ujemnych

@@ -1,0 +1,3 @@
+Zadanie 2
+Liczba wyrazów mających co najmniej 6 znaków to: 0
+W pliku mamy 0 wyrazów na literę 'p'.
